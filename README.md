@@ -97,10 +97,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/zxiaoyii/leet_code_practice/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/zxiaoyii/leet_code_practice/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/zxiaoyii/leet_code_practice/tree/master/0025-reverse-nodes-in-k-group) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/zxiaoyii/leet_code_practice/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/zxiaoyii/leet_code_practice/tree/master/0025-reverse-nodes-in-k-group) |
 ## Merge Sort
 |  |
 | ------- |
