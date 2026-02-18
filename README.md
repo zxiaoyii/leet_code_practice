@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/zxiaoyii/leet_code_practice/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/zxiaoyii/leet_code_practice/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/zxiaoyii/leet_code_practice/tree/master/0076-minimum-window-substring) |
 | [0208-implement-trie-prefix-tree](https://github.com/zxiaoyii/leet_code_practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/zxiaoyii/leet_code_practice/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/zxiaoyii/leet_code_practice/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/zxiaoyii/leet_code_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/zxiaoyii/leet_code_practice/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Stack
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/zxiaoyii/leet_code_practice/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/zxiaoyii/leet_code_practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/zxiaoyii/leet_code_practice/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/zxiaoyii/leet_code_practice/tree/master/0046-permutations) |
