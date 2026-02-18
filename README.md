@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0076-minimum-window-substring](https://github.com/zxiaoyii/leet_code_practice/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/zxiaoyii/leet_code_practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0146-lru-cache](https://github.com/zxiaoyii/leet_code_practice/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/zxiaoyii/leet_code_practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0355-design-twitter](https://github.com/zxiaoyii/leet_code_practice/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/zxiaoyii/leet_code_practice/tree/master/0621-task-scheduler) |
 | [0981-time-based-key-value-store](https://github.com/zxiaoyii/leet_code_practice/tree/master/0981-time-based-key-value-store) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/zxiaoyii/leet_code_practice/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/zxiaoyii/leet_code_practice/tree/master/0076-minimum-window-substring) |
+| [0208-implement-trie-prefix-tree](https://github.com/zxiaoyii/leet_code_practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/zxiaoyii/leet_code_practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0981-time-based-key-value-store](https://github.com/zxiaoyii/leet_code_practice/tree/master/0981-time-based-key-value-store) |
 ## Sliding Window
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/zxiaoyii/leet_code_practice/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/zxiaoyii/leet_code_practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/zxiaoyii/leet_code_practice/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/zxiaoyii/leet_code_practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/zxiaoyii/leet_code_practice/tree/master/0355-design-twitter) |
@@ -236,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/zxiaoyii/leet_code_practice/tree/master/0973-k-closest-points-to-origin) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/zxiaoyii/leet_code_practice/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
