@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0046-permutations](https://github.com/zxiaoyii/leet_code_practice/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/zxiaoyii/leet_code_practice/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/zxiaoyii/leet_code_practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0090-subsets-ii](https://github.com/zxiaoyii/leet_code_practice/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/zxiaoyii/leet_code_practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/zxiaoyii/leet_code_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/zxiaoyii/leet_code_practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/zxiaoyii/leet_code_practice/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/zxiaoyii/leet_code_practice/tree/master/0287-find-the-duplicate-number) |
 ## Doubly-Linked List
 |  |
@@ -260,5 +262,6 @@ A collection of LeetCode questions to ace the coding interview!
 | [0039-combination-sum](https://github.com/zxiaoyii/leet_code_practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/zxiaoyii/leet_code_practice/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/zxiaoyii/leet_code_practice/tree/master/0046-permutations) |
+| [0090-subsets-ii](https://github.com/zxiaoyii/leet_code_practice/tree/master/0090-subsets-ii) |
 | [0212-word-search-ii](https://github.com/zxiaoyii/leet_code_practice/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
