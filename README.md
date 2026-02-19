@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0212-word-search-ii](https://github.com/zxiaoyii/leet_code_practice/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/zxiaoyii/leet_code_practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/zxiaoyii/leet_code_practice/tree/master/0239-sliding-window-maximum) |
+| [0286-walls-and-gates](https://github.com/zxiaoyii/leet_code_practice/tree/master/0286-walls-and-gates) |
 | [0287-find-the-duplicate-number](https://github.com/zxiaoyii/leet_code_practice/tree/master/0287-find-the-duplicate-number) |
 | [0621-task-scheduler](https://github.com/zxiaoyii/leet_code_practice/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/zxiaoyii/leet_code_practice/tree/master/0695-max-area-of-island) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/zxiaoyii/leet_code_practice/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/zxiaoyii/leet_code_practice/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/zxiaoyii/leet_code_practice/tree/master/0212-word-search-ii) |
+| [0286-walls-and-gates](https://github.com/zxiaoyii/leet_code_practice/tree/master/0286-walls-and-gates) |
 | [0695-max-area-of-island](https://github.com/zxiaoyii/leet_code_practice/tree/master/0695-max-area-of-island) |
 ## Design
 |  |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0133-clone-graph](https://github.com/zxiaoyii/leet_code_practice/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/zxiaoyii/leet_code_practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/zxiaoyii/leet_code_practice/tree/master/0226-invert-binary-tree) |
+| [0286-walls-and-gates](https://github.com/zxiaoyii/leet_code_practice/tree/master/0286-walls-and-gates) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/zxiaoyii/leet_code_practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0695-max-area-of-island](https://github.com/zxiaoyii/leet_code_practice/tree/master/0695-max-area-of-island) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/zxiaoyii/leet_code_practice/tree/master/1448-count-good-nodes-in-binary-tree) |
