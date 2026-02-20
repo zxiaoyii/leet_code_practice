@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/zxiaoyii/leet_code_practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0261-graph-valid-tree](https://github.com/zxiaoyii/leet_code_practice/tree/master/0261-graph-valid-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/zxiaoyii/leet_code_practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/zxiaoyii/leet_code_practice/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0547-number-of-provinces](https://github.com/zxiaoyii/leet_code_practice/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/zxiaoyii/leet_code_practice/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/zxiaoyii/leet_code_practice/tree/master/0695-max-area-of-island) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0261-graph-valid-tree](https://github.com/zxiaoyii/leet_code_practice/tree/master/0261-graph-valid-tree) |
 | [0286-walls-and-gates](https://github.com/zxiaoyii/leet_code_practice/tree/master/0286-walls-and-gates) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/zxiaoyii/leet_code_practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/zxiaoyii/leet_code_practice/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0547-number-of-provinces](https://github.com/zxiaoyii/leet_code_practice/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/zxiaoyii/leet_code_practice/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/zxiaoyii/leet_code_practice/tree/master/0994-rotting-oranges) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0130-surrounded-regions](https://github.com/zxiaoyii/leet_code_practice/tree/master/0130-surrounded-regions) |
 | [0261-graph-valid-tree](https://github.com/zxiaoyii/leet_code_practice/tree/master/0261-graph-valid-tree) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/zxiaoyii/leet_code_practice/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0547-number-of-provinces](https://github.com/zxiaoyii/leet_code_practice/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/zxiaoyii/leet_code_practice/tree/master/0695-max-area-of-island) |
 ## Graph Theory
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/zxiaoyii/leet_code_practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/zxiaoyii/leet_code_practice/tree/master/0210-course-schedule-ii) |
 | [0261-graph-valid-tree](https://github.com/zxiaoyii/leet_code_practice/tree/master/0261-graph-valid-tree) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/zxiaoyii/leet_code_practice/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0547-number-of-provinces](https://github.com/zxiaoyii/leet_code_practice/tree/master/0547-number-of-provinces) |
 ## Topological Sort
 |  |
