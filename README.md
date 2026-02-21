@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/zxiaoyii/leet_code_practice/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0547-number-of-provinces](https://github.com/zxiaoyii/leet_code_practice/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/zxiaoyii/leet_code_practice/tree/master/0572-subtree-of-another-tree) |
+| [0684-redundant-connection](https://github.com/zxiaoyii/leet_code_practice/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/zxiaoyii/leet_code_practice/tree/master/0695-max-area-of-island) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/zxiaoyii/leet_code_practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/zxiaoyii/leet_code_practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/zxiaoyii/leet_code_practice/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0547-number-of-provinces](https://github.com/zxiaoyii/leet_code_practice/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/zxiaoyii/leet_code_practice/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/zxiaoyii/leet_code_practice/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/zxiaoyii/leet_code_practice/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/zxiaoyii/leet_code_practice/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0261-graph-valid-tree](https://github.com/zxiaoyii/leet_code_practice/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/zxiaoyii/leet_code_practice/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0547-number-of-provinces](https://github.com/zxiaoyii/leet_code_practice/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/zxiaoyii/leet_code_practice/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/zxiaoyii/leet_code_practice/tree/master/0695-max-area-of-island) |
 ## Graph Theory
 |  |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0261-graph-valid-tree](https://github.com/zxiaoyii/leet_code_practice/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/zxiaoyii/leet_code_practice/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0547-number-of-provinces](https://github.com/zxiaoyii/leet_code_practice/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/zxiaoyii/leet_code_practice/tree/master/0684-redundant-connection) |
 ## Topological Sort
 |  |
 | ------- |
