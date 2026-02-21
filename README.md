@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0286-walls-and-gates](https://github.com/zxiaoyii/leet_code_practice/tree/master/0286-walls-and-gates) |
 | [0287-find-the-duplicate-number](https://github.com/zxiaoyii/leet_code_practice/tree/master/0287-find-the-duplicate-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/zxiaoyii/leet_code_practice/tree/master/0417-pacific-atlantic-water-flow) |
+| [0435-non-overlapping-intervals](https://github.com/zxiaoyii/leet_code_practice/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/zxiaoyii/leet_code_practice/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/zxiaoyii/leet_code_practice/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/zxiaoyii/leet_code_practice/tree/master/0704-binary-search) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0056-merge-intervals](https://github.com/zxiaoyii/leet_code_practice/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/zxiaoyii/leet_code_practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/zxiaoyii/leet_code_practice/tree/master/0295-find-median-from-data-stream) |
+| [0435-non-overlapping-intervals](https://github.com/zxiaoyii/leet_code_practice/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/zxiaoyii/leet_code_practice/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/zxiaoyii/leet_code_practice/tree/master/0973-k-closest-points-to-origin) |
 ## Hash Table
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/zxiaoyii/leet_code_practice/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/zxiaoyii/leet_code_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/zxiaoyii/leet_code_practice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0435-non-overlapping-intervals](https://github.com/zxiaoyii/leet_code_practice/tree/master/0435-non-overlapping-intervals) |
 ## Stack
 |  |
 | ------- |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/zxiaoyii/leet_code_practice/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/zxiaoyii/leet_code_practice/tree/master/0621-task-scheduler) |
 ## Counting
 |  |
