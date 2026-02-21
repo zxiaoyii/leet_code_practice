@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0973-k-closest-points-to-origin](https://github.com/zxiaoyii/leet_code_practice/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/zxiaoyii/leet_code_practice/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/zxiaoyii/leet_code_practice/tree/master/1046-last-stone-weight) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/zxiaoyii/leet_code_practice/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0435-non-overlapping-intervals](https://github.com/zxiaoyii/leet_code_practice/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/zxiaoyii/leet_code_practice/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/zxiaoyii/leet_code_practice/tree/master/0973-k-closest-points-to-origin) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/zxiaoyii/leet_code_practice/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0703-kth-largest-element-in-a-stream](https://github.com/zxiaoyii/leet_code_practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/zxiaoyii/leet_code_practice/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/zxiaoyii/leet_code_practice/tree/master/1046-last-stone-weight) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/zxiaoyii/leet_code_practice/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0704-binary-search](https://github.com/zxiaoyii/leet_code_practice/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/zxiaoyii/leet_code_practice/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/zxiaoyii/leet_code_practice/tree/master/0981-time-based-key-value-store) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/zxiaoyii/leet_code_practice/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Matrix
 |  |
 | ------- |
@@ -374,4 +378,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0207-course-schedule](https://github.com/zxiaoyii/leet_code_practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/zxiaoyii/leet_code_practice/tree/master/0210-course-schedule-ii) |
+## Sweep Line
+|  |
+| ------- |
+| [1851-minimum-interval-to-include-each-query](https://github.com/zxiaoyii/leet_code_practice/tree/master/1851-minimum-interval-to-include-each-query) |
 <!---LeetCode Topics End-->
