@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0994-rotting-oranges](https://github.com/zxiaoyii/leet_code_practice/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/zxiaoyii/leet_code_practice/tree/master/1046-last-stone-weight) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/zxiaoyii/leet_code_practice/tree/master/1851-minimum-interval-to-include-each-query) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/zxiaoyii/leet_code_practice/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Two Pointers
 |  |
 | ------- |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0435-non-overlapping-intervals](https://github.com/zxiaoyii/leet_code_practice/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/zxiaoyii/leet_code_practice/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/zxiaoyii/leet_code_practice/tree/master/0846-hand-of-straights) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/zxiaoyii/leet_code_practice/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Counting
 |  |
 | ------- |
