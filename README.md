@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0355-design-twitter](https://github.com/zxiaoyii/leet_code_practice/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/zxiaoyii/leet_code_practice/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/zxiaoyii/leet_code_practice/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/zxiaoyii/leet_code_practice/tree/master/0743-network-delay-time) |
 | [0973-k-closest-points-to-origin](https://github.com/zxiaoyii/leet_code_practice/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/zxiaoyii/leet_code_practice/tree/master/1046-last-stone-weight) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/zxiaoyii/leet_code_practice/tree/master/1851-minimum-interval-to-include-each-query) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0572-subtree-of-another-tree](https://github.com/zxiaoyii/leet_code_practice/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/zxiaoyii/leet_code_practice/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/zxiaoyii/leet_code_practice/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/zxiaoyii/leet_code_practice/tree/master/0743-network-delay-time) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/zxiaoyii/leet_code_practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/zxiaoyii/leet_code_practice/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/zxiaoyii/leet_code_practice/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/zxiaoyii/leet_code_practice/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/zxiaoyii/leet_code_practice/tree/master/0743-network-delay-time) |
 | [0994-rotting-oranges](https://github.com/zxiaoyii/leet_code_practice/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/zxiaoyii/leet_code_practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Data Stream
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/zxiaoyii/leet_code_practice/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0547-number-of-provinces](https://github.com/zxiaoyii/leet_code_practice/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/zxiaoyii/leet_code_practice/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/zxiaoyii/leet_code_practice/tree/master/0743-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
@@ -416,4 +420,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/zxiaoyii/leet_code_practice/tree/master/0253-meeting-rooms-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/zxiaoyii/leet_code_practice/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
