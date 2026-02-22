@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/zxiaoyii/leet_code_practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/zxiaoyii/leet_code_practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/zxiaoyii/leet_code_practice/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/zxiaoyii/leet_code_practice/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/zxiaoyii/leet_code_practice/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/zxiaoyii/leet_code_practice/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/zxiaoyii/leet_code_practice/tree/master/0053-maximum-subarray) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/zxiaoyii/leet_code_practice/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/zxiaoyii/leet_code_practice/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/zxiaoyii/leet_code_practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/zxiaoyii/leet_code_practice/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/zxiaoyii/leet_code_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/zxiaoyii/leet_code_practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/zxiaoyii/leet_code_practice/tree/master/0055-jump-game) |
 | [0253-meeting-rooms-ii](https://github.com/zxiaoyii/leet_code_practice/tree/master/0253-meeting-rooms-ii) |
 | [0435-non-overlapping-intervals](https://github.com/zxiaoyii/leet_code_practice/tree/master/0435-non-overlapping-intervals) |
