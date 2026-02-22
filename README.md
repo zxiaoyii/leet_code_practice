@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0046-permutations](https://github.com/zxiaoyii/leet_code_practice/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/zxiaoyii/leet_code_practice/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/zxiaoyii/leet_code_practice/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/zxiaoyii/leet_code_practice/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/zxiaoyii/leet_code_practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/zxiaoyii/leet_code_practice/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/zxiaoyii/leet_code_practice/tree/master/0074-search-a-2d-matrix) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0022-generate-parentheses](https://github.com/zxiaoyii/leet_code_practice/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/zxiaoyii/leet_code_practice/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/zxiaoyii/leet_code_practice/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/zxiaoyii/leet_code_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/zxiaoyii/leet_code_practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/zxiaoyii/leet_code_practice/tree/master/0435-non-overlapping-intervals) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/zxiaoyii/leet_code_practice/tree/master/0055-jump-game) |
 | [0253-meeting-rooms-ii](https://github.com/zxiaoyii/leet_code_practice/tree/master/0253-meeting-rooms-ii) |
 | [0435-non-overlapping-intervals](https://github.com/zxiaoyii/leet_code_practice/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/zxiaoyii/leet_code_practice/tree/master/0621-task-scheduler) |
