@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0239-sliding-window-maximum](https://github.com/zxiaoyii/leet_code_practice/tree/master/0239-sliding-window-maximum) |
 | [0252-meeting-rooms](https://github.com/zxiaoyii/leet_code_practice/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/zxiaoyii/leet_code_practice/tree/master/0253-meeting-rooms-ii) |
+| [0269-alien-dictionary](https://github.com/zxiaoyii/leet_code_practice/tree/master/0269-alien-dictionary) |
 | [0286-walls-and-gates](https://github.com/zxiaoyii/leet_code_practice/tree/master/0286-walls-and-gates) |
 | [0287-find-the-duplicate-number](https://github.com/zxiaoyii/leet_code_practice/tree/master/0287-find-the-duplicate-number) |
 | [0332-reconstruct-itinerary](https://github.com/zxiaoyii/leet_code_practice/tree/master/0332-reconstruct-itinerary) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0208-implement-trie-prefix-tree](https://github.com/zxiaoyii/leet_code_practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/zxiaoyii/leet_code_practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/zxiaoyii/leet_code_practice/tree/master/0212-word-search-ii) |
+| [0269-alien-dictionary](https://github.com/zxiaoyii/leet_code_practice/tree/master/0269-alien-dictionary) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/zxiaoyii/leet_code_practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/zxiaoyii/leet_code_practice/tree/master/0332-reconstruct-itinerary) |
 | [0678-valid-parenthesis-string](https://github.com/zxiaoyii/leet_code_practice/tree/master/0678-valid-parenthesis-string) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/zxiaoyii/leet_code_practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/zxiaoyii/leet_code_practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0261-graph-valid-tree](https://github.com/zxiaoyii/leet_code_practice/tree/master/0261-graph-valid-tree) |
+| [0269-alien-dictionary](https://github.com/zxiaoyii/leet_code_practice/tree/master/0269-alien-dictionary) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/zxiaoyii/leet_code_practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/zxiaoyii/leet_code_practice/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0332-reconstruct-itinerary](https://github.com/zxiaoyii/leet_code_practice/tree/master/0332-reconstruct-itinerary) |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0210-course-schedule-ii](https://github.com/zxiaoyii/leet_code_practice/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/zxiaoyii/leet_code_practice/tree/master/0226-invert-binary-tree) |
 | [0261-graph-valid-tree](https://github.com/zxiaoyii/leet_code_practice/tree/master/0261-graph-valid-tree) |
+| [0269-alien-dictionary](https://github.com/zxiaoyii/leet_code_practice/tree/master/0269-alien-dictionary) |
 | [0286-walls-and-gates](https://github.com/zxiaoyii/leet_code_practice/tree/master/0286-walls-and-gates) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/zxiaoyii/leet_code_practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/zxiaoyii/leet_code_practice/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
@@ -410,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/zxiaoyii/leet_code_practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/zxiaoyii/leet_code_practice/tree/master/0210-course-schedule-ii) |
 | [0261-graph-valid-tree](https://github.com/zxiaoyii/leet_code_practice/tree/master/0261-graph-valid-tree) |
+| [0269-alien-dictionary](https://github.com/zxiaoyii/leet_code_practice/tree/master/0269-alien-dictionary) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/zxiaoyii/leet_code_practice/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0332-reconstruct-itinerary](https://github.com/zxiaoyii/leet_code_practice/tree/master/0332-reconstruct-itinerary) |
 | [0547-number-of-provinces](https://github.com/zxiaoyii/leet_code_practice/tree/master/0547-number-of-provinces) |
@@ -421,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0207-course-schedule](https://github.com/zxiaoyii/leet_code_practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/zxiaoyii/leet_code_practice/tree/master/0210-course-schedule-ii) |
+| [0269-alien-dictionary](https://github.com/zxiaoyii/leet_code_practice/tree/master/0269-alien-dictionary) |
 ## Sweep Line
 |  |
 | ------- |
