@@ -1,64 +1,76 @@
 class ListNode:
-    def __init__(self, key=0, val=0, prev=None, next=None):
-        self.key = key
-        self.val = val
-        self.prev = prev
-        self.next = next
+    def __init__(self):
+        self.val = None
+        self.key = None
+        self.prev = None
+        self.next = None
 
 class LRUCache:
 
     def __init__(self, capacity: int):
         self.capacity = capacity
-        self.hashmap = {} # {key: ListNode}
-        self.head = ListNode()
-        self.tail = ListNode()
-        self.head.next = self.tail
-        self.tail.prev = self.head
+        self.cache = {} # key -> node
+        self.start = ListNode() #least recently used
+        self.end = ListNode() #newest
+        self.start.next = self.end
+        self.end.prev = self.start
+
+    def move_to_end(self, node):
+        p = node.prev
+        n = node.next
+        p.next = n
+        n.prev = p
+        self.put_to_the_end(node)
+    
+    def put_to_the_end(self, node):
+        temp = self.end.prev
+        temp.next = node
+        self.end.prev = node
+        node.prev = temp
+        node.next = self.end
         
 
     def get(self, key: int) -> int:
-        
-        if key not in self.hashmap:
+        if key in self.cache:
+            node = self.cache[key]
+            self.move_to_end(node)
+            return node.val
+        else:
             return -1
-            
-        node = self.hashmap[key]
-        self.remove(node)
-        self.add(node)
-        return node.val
-        
 
     def put(self, key: int, value: int) -> None:
-        if key in self.hashmap:
-            node = self.hashmap[key]
+        if key in self.cache:
+            node = self.cache[key]
             node.val = value
-            self.remove(node)
-            self.add(node)
-            
+            self.move_to_end(node)
         else:
-            new = ListNode(key=key, val=value)
-            self.hashmap[key] = new
-            self.add(new)
-            
-            if len(self.hashmap) > self.capacity:
-                drop = self.head.next
-                self.remove(drop) 
-                del self.hashmap[drop.key]
-        
-    def remove(self, node):
-        node.prev.next = node.next
-        node.next.prev = node.prev
-        
-    def add(self, node):
-        temp = self.tail.prev
-        temp.next = node
-        node.next = self.tail
-        self.tail.prev = node
-        node.prev = temp
-        
-        
+            node = ListNode()
+            node.val = value
+            node.key = key
+            self.cache[key] = node
+            self.put_to_the_end(node)
 
+            if len(self.cache) > self.capacity:
+                temp_remove = self.start.next
+                temp_key = temp_remove.key
+                del self.cache[temp_key]
+                self.start.next = temp_remove.next
+                temp_remove.next.prev = self.start 
 
 # Your LRUCache object will be instantiated and called as such:
 # obj = LRUCache(capacity)
 # param_1 = obj.get(key)
 # obj.put(key,value)
+
+
+
+
+
+
+
+
+
+
+
+
+
