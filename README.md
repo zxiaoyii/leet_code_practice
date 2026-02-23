@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0045-jump-game-ii](https://github.com/zxiaoyii/leet_code_practice/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/zxiaoyii/leet_code_practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/zxiaoyii/leet_code_practice/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/zxiaoyii/leet_code_practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/zxiaoyii/leet_code_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/zxiaoyii/leet_code_practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/zxiaoyii/leet_code_practice/tree/master/0435-non-overlapping-intervals) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/zxiaoyii/leet_code_practice/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/zxiaoyii/leet_code_practice/tree/master/0070-climbing-stairs) |
 | [0973-k-closest-points-to-origin](https://github.com/zxiaoyii/leet_code_practice/tree/master/0973-k-closest-points-to-origin) |
 ## Bit Manipulation
 |  |
@@ -453,4 +455,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/zxiaoyii/leet_code_practice/tree/master/1584-min-cost-to-connect-all-points) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/zxiaoyii/leet_code_practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
