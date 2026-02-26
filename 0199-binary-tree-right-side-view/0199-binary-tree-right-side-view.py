@@ -11,11 +11,12 @@ class Solution:
         queue = deque([root])
         res = []
         while queue:
+            res.append(queue[-1].val)
             for i in range(len(queue)):
                 node = queue.popleft()
                 if node.left:
                     queue.append(node.left)
                 if node.right:
                     queue.append(node.right)
-            res.append(node.val)
+            
         return res
