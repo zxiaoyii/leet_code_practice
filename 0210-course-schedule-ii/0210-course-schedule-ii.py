@@ -1,25 +1,22 @@
-from collections import defaultdict, deque
+from collections import deque, defaultdict
 class Solution:
     def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
-        # put prereq into a directed graph
-        graph = defaultdict(list) # b -> [a1, a2, ...]
-        indegree = [0] * numCourses #record how may nodes pointed to one node
+        # model the directed graph
+        graph = defaultdict(list)
+        indegree = [0] * numCourses
         for a, b in prerequisites:
             graph[b].append(a)
             indegree[a] += 1
         
-        queue = deque([i for i in range(numCourses) if indegree[i] == 0])
+        # bfs
+        queue = deque(i for i in range(numCourses) if indegree[i] == 0)
         res = []
+
         while queue:
-            c = queue.popleft()
-            res.append(c)
-            for a in graph[c]:
-                indegree[a] -= 1
-                if indegree[a] == 0:
-                    queue.append(a)
-        
+            node = queue.popleft()
+            res.append(node)
+            for course in graph[node]:
+                indegree[course] -= 1
+                if indegree[course] == 0:
+                    queue.append(course)
         return res if len(res) == numCourses else []
-
-
-
-        
