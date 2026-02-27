@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/zxiaoyii/leet_code_practice/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/zxiaoyii/leet_code_practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/zxiaoyii/leet_code_practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/zxiaoyii/leet_code_practice/tree/master/0015-3sum) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/zxiaoyii/leet_code_practice/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/zxiaoyii/leet_code_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/zxiaoyii/leet_code_practice/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/zxiaoyii/leet_code_practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
