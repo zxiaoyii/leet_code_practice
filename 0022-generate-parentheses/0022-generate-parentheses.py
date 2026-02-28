@@ -1,19 +1,18 @@
 class Solution:
     def generateParenthesis(self, n: int) -> List[str]:
         res = []
-
-        def backtrack(path, left, right):
-            if left == 0 and right == 0:
+        def backtracking(l, r, path):
+            if l == n and r == n:
                 res.append(''.join(path))
-                return 
-            if left > 0:
-                path.append('(')
-                backtrack(path, left - 1, right)
-                path.pop()
-            if right > left:
+                return  
+            if r < l:
                 path.append(')')
-                backtrack(path, left, right - 1)
+                backtracking(l, r + 1, path)
                 path.pop()
-        
-        backtrack([], n, n)
-        return res
+
+            if l < n:
+                path.append('(')
+                backtracking(l + 1, r, path)
+                path.pop()
+        backtracking(0, 0, [])  
+        return res          
