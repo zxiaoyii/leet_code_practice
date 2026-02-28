@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/zxiaoyii/leet_code_practice/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/zxiaoyii/leet_code_practice/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/zxiaoyii/leet_code_practice/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/zxiaoyii/leet_code_practice/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/zxiaoyii/leet_code_practice/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/zxiaoyii/leet_code_practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/zxiaoyii/leet_code_practice/tree/master/0055-jump-game) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/zxiaoyii/leet_code_practice/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/zxiaoyii/leet_code_practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/zxiaoyii/leet_code_practice/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/zxiaoyii/leet_code_practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0252-meeting-rooms](https://github.com/zxiaoyii/leet_code_practice/tree/master/0252-meeting-rooms) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/zxiaoyii/leet_code_practice/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/zxiaoyii/leet_code_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/zxiaoyii/leet_code_practice/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/zxiaoyii/leet_code_practice/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/zxiaoyii/leet_code_practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/zxiaoyii/leet_code_practice/tree/master/0127-word-ladder) |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/zxiaoyii/leet_code_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/zxiaoyii/leet_code_practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/zxiaoyii/leet_code_practice/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/zxiaoyii/leet_code_practice/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/zxiaoyii/leet_code_practice/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/zxiaoyii/leet_code_practice/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/zxiaoyii/leet_code_practice/tree/master/0127-word-ladder) |
