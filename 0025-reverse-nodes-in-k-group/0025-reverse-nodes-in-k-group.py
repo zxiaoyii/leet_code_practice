@@ -5,38 +5,43 @@
 #         self.next = next
 class Solution:
     def reverseKGroup(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
-        dummy = ListNode(0, head)
-        prev_g = dummy
-        #get the group of kth nodes
-            #if there is k nodes exits
-        #[dummy ,1, 2, 3, 4, 5] k = 2
-        # prev_g   kth
-        while True:
-            kth = self.getKth(prev_g, k)  
-            if not kth:
-                break    
-            #reverse the group of nodes
-            prev, cur = kth.next, prev_g.next
-            for _ in range(k):
-                temp = cur.next
+        if not head:
+            return None
+        if k == 1:
+            return head
+
+        # reverse one linked list
+        def reverse(node):
+            cur = node
+            prev = None
+            while cur:
+                node = cur.next
                 cur.next = prev
                 prev = cur
-                cur = temp
-                
-            #dummy -> 2 -> 1 -> 3 -> 4 -> 5    
-            #prev_g  kth
-            #connect the group of nodes to the orignal linked list
-            temp1 = prev_g.next
-            prev_g.next = kth
-            prev_g = temp1
-        #return the head of the modified linked list
-        return dummy.next
-    
-    def getKth(self, node, k):
-        cur = node
-        for _ in range(k):
-            if not cur.next:
-                return None
-            cur = cur.next
-        return cur
+                cur = node
+            return prev
+            
+        # find the start node and the next start node
         
+        dummy = ListNode()
+        dummy.next = head
+        prev = dummy
+        node = head
+        while node:
+            start = node
+            for _ in range(k - 1):
+                if node.next:
+                    node = node.next
+                else:
+                    return dummy.next
+            end = node
+            next_start = node.next
+
+            end.next = None
+            new_start = reverse(start)
+            prev.next = new_start
+            start.next = next_start
+            node = next_start
+            prev = start
+        return dummy.next
+25
