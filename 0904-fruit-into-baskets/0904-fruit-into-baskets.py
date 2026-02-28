@@ -1,15 +1,18 @@
-from collections import defaultdict
 class Solution:
     def totalFruit(self, fruits: List[int]) -> int:
-        left = 0
+        l = 0
         res = 0
         window = defaultdict(int)
-        for right in range(len(fruits)):
-            window[fruits[right]] += 1
+        for r in range(len(fruits)):
+            window[fruits[r]] += 1
             while len(window) > 2:
-                window[fruits[left]] -= 1
-                if window[fruits[left]] == 0:
-                    del window[fruits[left]]
-                left += 1
-            res = max(res, right - left + 1)
+                window[fruits[l]] -= 1
+                if window[fruits[l]] == 0:
+                    del window[fruits[l]]
+                l += 1
+            res = max(res, r - l + 1)
         return res
+            
+            
+
+            
