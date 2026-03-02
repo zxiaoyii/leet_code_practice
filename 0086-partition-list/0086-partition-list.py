@@ -5,6 +5,8 @@
 #         self.next = next
 class Solution:
     def partition(self, head: Optional[ListNode], x: int) -> Optional[ListNode]:
+        if not head:
+            return None
         dummy = ListNode()
         dummy.next = head
         cur = head
