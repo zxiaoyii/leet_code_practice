@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0004-median-of-two-sorted-arrays](https://github.com/zxiaoyii/leet_code_practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/zxiaoyii/leet_code_practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/zxiaoyii/leet_code_practice/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/zxiaoyii/leet_code_practice/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/zxiaoyii/leet_code_practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/zxiaoyii/leet_code_practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/zxiaoyii/leet_code_practice/tree/master/0040-combination-sum-ii) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/zxiaoyii/leet_code_practice/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/zxiaoyii/leet_code_practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/zxiaoyii/leet_code_practice/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/zxiaoyii/leet_code_practice/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/zxiaoyii/leet_code_practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/zxiaoyii/leet_code_practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/zxiaoyii/leet_code_practice/tree/master/0042-trapping-rain-water) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/zxiaoyii/leet_code_practice/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/zxiaoyii/leet_code_practice/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/zxiaoyii/leet_code_practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/zxiaoyii/leet_code_practice/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/zxiaoyii/leet_code_practice/tree/master/0215-kth-largest-element-in-an-array) |
