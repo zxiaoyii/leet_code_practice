@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0355-design-twitter](https://github.com/zxiaoyii/leet_code_practice/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/zxiaoyii/leet_code_practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0981-time-based-key-value-store](https://github.com/zxiaoyii/leet_code_practice/tree/master/0981-time-based-key-value-store) |
+| [1603-design-parking-system](https://github.com/zxiaoyii/leet_code_practice/tree/master/1603-design-parking-system) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/zxiaoyii/leet_code_practice/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/zxiaoyii/leet_code_practice/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/zxiaoyii/leet_code_practice/tree/master/0767-reorganize-string) |
+| [1603-design-parking-system](https://github.com/zxiaoyii/leet_code_practice/tree/master/1603-design-parking-system) |
 ## Quickselect
 |  |
 | ------- |
@@ -526,4 +528,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/zxiaoyii/leet_code_practice/tree/master/0347-top-k-frequent-elements) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/zxiaoyii/leet_code_practice/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
