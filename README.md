@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1584-min-cost-to-connect-all-points](https://github.com/zxiaoyii/leet_code_practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/zxiaoyii/leet_code_practice/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/zxiaoyii/leet_code_practice/tree/master/1899-merge-triplets-to-form-target-triplet) |
+| [2488-count-subarrays-with-median-k](https://github.com/zxiaoyii/leet_code_practice/tree/master/2488-count-subarrays-with-median-k) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/zxiaoyii/leet_code_practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Two Pointers
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0846-hand-of-straights](https://github.com/zxiaoyii/leet_code_practice/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/zxiaoyii/leet_code_practice/tree/master/0904-fruit-into-baskets) |
 | [0981-time-based-key-value-store](https://github.com/zxiaoyii/leet_code_practice/tree/master/0981-time-based-key-value-store) |
+| [2488-count-subarrays-with-median-k](https://github.com/zxiaoyii/leet_code_practice/tree/master/2488-count-subarrays-with-median-k) |
 ## String
 |  |
 | ------- |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/zxiaoyii/leet_code_practice/tree/master/0253-meeting-rooms-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/zxiaoyii/leet_code_practice/tree/master/0560-subarray-sum-equals-k) |
+| [2488-count-subarrays-with-median-k](https://github.com/zxiaoyii/leet_code_practice/tree/master/2488-count-subarrays-with-median-k) |
 ## Shortest Path
 |  |
 | ------- |
