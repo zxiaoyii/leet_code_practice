@@ -1,39 +1,33 @@
-from collections import defaultdict
 class Solution:
     def networkDelayTime(self, times: List[List[int]], n: int, k: int) -> int:
+        if n == 1:
+            return 0
+        
         # model the graph
-        graph = defaultdict(list) # u ->[(w, v), (...), ...]
+        graph = defaultdict(list)
         for u, v, w in times:
             graph[u].append((w, v))
-        dist = [float('inf')] * (n + 1)
-        dist[k] = 0
-        # dijkstra 
-        heap = [(0, k)] # distance -> node
         
+        distance = [float('inf')] * (n + 1)
+        distance[k] = 0
+
+        # dijkstra
+        heap = [(0, k)]
+        visited = set()
         while heap:
-            d, node = heapq.heappop(heap)
-            if d > dist[node]:
+            dist, node = heapq.heappop(heap)
+            if node in visited:
                 continue
+            visited.add(node)
             for w, v in graph[node]:
-                new_d = d + w
-                if new_d < dist[v]:
-                    dist[v] = new_d
-                    heapq.heappush(heap, (new_d, v))
-                    
-        res = float('-inf')          
-        for i in range(1, n + 1):
-            val = dist[i]
-            if val == float('inf'):
+                new_d = w + dist
+                if new_d > distance[v]:
+                    continue
+                distance[v] = new_d
+                heapq.heappush(heap, (new_d, v))
+        res = 0
+        for d in distance[1:]:
+            if d == float('inf'):
                 return -1
-            else:
-                res = max(res, val)
+            res = max(res, d)
         return res
-                
-        
-            
-        
-        
-        
-        
-        
-        
