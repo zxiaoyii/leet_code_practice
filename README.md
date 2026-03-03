@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0763-partition-labels](https://github.com/zxiaoyii/leet_code_practice/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/zxiaoyii/leet_code_practice/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/zxiaoyii/leet_code_practice/tree/master/0846-hand-of-straights) |
+| [0895-maximum-frequency-stack](https://github.com/zxiaoyii/leet_code_practice/tree/master/0895-maximum-frequency-stack) |
 | [0904-fruit-into-baskets](https://github.com/zxiaoyii/leet_code_practice/tree/master/0904-fruit-into-baskets) |
 | [0981-time-based-key-value-store](https://github.com/zxiaoyii/leet_code_practice/tree/master/0981-time-based-key-value-store) |
 | [2488-count-subarrays-with-median-k](https://github.com/zxiaoyii/leet_code_practice/tree/master/2488-count-subarrays-with-median-k) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0143-reorder-list](https://github.com/zxiaoyii/leet_code_practice/tree/master/0143-reorder-list) |
 | [0678-valid-parenthesis-string](https://github.com/zxiaoyii/leet_code_practice/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/zxiaoyii/leet_code_practice/tree/master/0739-daily-temperatures) |
+| [0895-maximum-frequency-stack](https://github.com/zxiaoyii/leet_code_practice/tree/master/0895-maximum-frequency-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/zxiaoyii/leet_code_practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/zxiaoyii/leet_code_practice/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/zxiaoyii/leet_code_practice/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0895-maximum-frequency-stack](https://github.com/zxiaoyii/leet_code_practice/tree/master/0895-maximum-frequency-stack) |
 | [0981-time-based-key-value-store](https://github.com/zxiaoyii/leet_code_practice/tree/master/0981-time-based-key-value-store) |
 | [1603-design-parking-system](https://github.com/zxiaoyii/leet_code_practice/tree/master/1603-design-parking-system) |
 ## Divide and Conquer
@@ -540,4 +543,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/zxiaoyii/leet_code_practice/tree/master/1603-design-parking-system) |
+## Ordered Set
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/zxiaoyii/leet_code_practice/tree/master/0895-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
