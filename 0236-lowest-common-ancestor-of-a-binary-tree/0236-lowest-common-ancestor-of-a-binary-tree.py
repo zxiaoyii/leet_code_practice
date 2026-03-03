@@ -7,19 +7,13 @@
 
 class Solution:
     def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
-        if p == root or q == root:
-            return root
-        
         def preOrder(node, p, q):
             if not node:
                 return None
-            if node == q:
-                return node
-            if node == p:
+            if node == p or node == q:
                 return node
             left = preOrder(node.left, p, q)
             right = preOrder(node.right, p, q)
-            
             if left and right:
                 return node
             elif left:
@@ -30,6 +24,3 @@ class Solution:
                 return None
         return preOrder(root, p, q)
             
-            
-            
-                
