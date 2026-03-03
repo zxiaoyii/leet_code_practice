@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0332-reconstruct-itinerary](https://github.com/zxiaoyii/leet_code_practice/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/zxiaoyii/leet_code_practice/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/zxiaoyii/leet_code_practice/tree/master/0435-non-overlapping-intervals) |
+| [0588-design-in-memory-file-system](https://github.com/zxiaoyii/leet_code_practice/tree/master/0588-design-in-memory-file-system) |
 | [0621-task-scheduler](https://github.com/zxiaoyii/leet_code_practice/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/zxiaoyii/leet_code_practice/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/zxiaoyii/leet_code_practice/tree/master/0846-hand-of-straights) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/zxiaoyii/leet_code_practice/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/zxiaoyii/leet_code_practice/tree/master/0355-design-twitter) |
 | [0560-subarray-sum-equals-k](https://github.com/zxiaoyii/leet_code_practice/tree/master/0560-subarray-sum-equals-k) |
+| [0588-design-in-memory-file-system](https://github.com/zxiaoyii/leet_code_practice/tree/master/0588-design-in-memory-file-system) |
 | [0621-task-scheduler](https://github.com/zxiaoyii/leet_code_practice/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/zxiaoyii/leet_code_practice/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/zxiaoyii/leet_code_practice/tree/master/0767-reorganize-string) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0269-alien-dictionary](https://github.com/zxiaoyii/leet_code_practice/tree/master/0269-alien-dictionary) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/zxiaoyii/leet_code_practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/zxiaoyii/leet_code_practice/tree/master/0332-reconstruct-itinerary) |
+| [0588-design-in-memory-file-system](https://github.com/zxiaoyii/leet_code_practice/tree/master/0588-design-in-memory-file-system) |
 | [0678-valid-parenthesis-string](https://github.com/zxiaoyii/leet_code_practice/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/zxiaoyii/leet_code_practice/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/zxiaoyii/leet_code_practice/tree/master/0767-reorganize-string) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0295-find-median-from-data-stream](https://github.com/zxiaoyii/leet_code_practice/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/zxiaoyii/leet_code_practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/zxiaoyii/leet_code_practice/tree/master/0355-design-twitter) |
+| [0588-design-in-memory-file-system](https://github.com/zxiaoyii/leet_code_practice/tree/master/0588-design-in-memory-file-system) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/zxiaoyii/leet_code_practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0895-maximum-frequency-stack](https://github.com/zxiaoyii/leet_code_practice/tree/master/0895-maximum-frequency-stack) |
 | [0981-time-based-key-value-store](https://github.com/zxiaoyii/leet_code_practice/tree/master/0981-time-based-key-value-store) |
@@ -447,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0208-implement-trie-prefix-tree](https://github.com/zxiaoyii/leet_code_practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/zxiaoyii/leet_code_practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/zxiaoyii/leet_code_practice/tree/master/0212-word-search-ii) |
+| [0588-design-in-memory-file-system](https://github.com/zxiaoyii/leet_code_practice/tree/master/0588-design-in-memory-file-system) |
 ## Backtracking
 |  |
 | ------- |
