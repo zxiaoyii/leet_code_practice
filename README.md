@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0212-word-search-ii](https://github.com/zxiaoyii/leet_code_practice/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/zxiaoyii/leet_code_practice/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/zxiaoyii/leet_code_practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/zxiaoyii/leet_code_practice/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/zxiaoyii/leet_code_practice/tree/master/0239-sliding-window-maximum) |
 | [0252-meeting-rooms](https://github.com/zxiaoyii/leet_code_practice/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/zxiaoyii/leet_code_practice/tree/master/0253-meeting-rooms-ii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/zxiaoyii/leet_code_practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/zxiaoyii/leet_code_practice/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/zxiaoyii/leet_code_practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/zxiaoyii/leet_code_practice/tree/master/0217-contains-duplicate) |
 | [0252-meeting-rooms](https://github.com/zxiaoyii/leet_code_practice/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/zxiaoyii/leet_code_practice/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/zxiaoyii/leet_code_practice/tree/master/0295-find-median-from-data-stream) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/zxiaoyii/leet_code_practice/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/zxiaoyii/leet_code_practice/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/zxiaoyii/leet_code_practice/tree/master/0208-implement-trie-prefix-tree) |
+| [0217-contains-duplicate](https://github.com/zxiaoyii/leet_code_practice/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/zxiaoyii/leet_code_practice/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/zxiaoyii/leet_code_practice/tree/master/0355-design-twitter) |
 | [0560-subarray-sum-equals-k](https://github.com/zxiaoyii/leet_code_practice/tree/master/0560-subarray-sum-equals-k) |
