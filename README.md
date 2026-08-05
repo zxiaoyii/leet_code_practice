@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0056-merge-intervals](https://github.com/zxiaoyii/leet_code_practice/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/zxiaoyii/leet_code_practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/zxiaoyii/leet_code_practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/zxiaoyii/leet_code_practice/tree/master/0242-valid-anagram) |
 | [0252-meeting-rooms](https://github.com/zxiaoyii/leet_code_practice/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/zxiaoyii/leet_code_practice/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/zxiaoyii/leet_code_practice/tree/master/0295-find-median-from-data-stream) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0146-lru-cache](https://github.com/zxiaoyii/leet_code_practice/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/zxiaoyii/leet_code_practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/zxiaoyii/leet_code_practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/zxiaoyii/leet_code_practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/zxiaoyii/leet_code_practice/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/zxiaoyii/leet_code_practice/tree/master/0355-design-twitter) |
 | [0560-subarray-sum-equals-k](https://github.com/zxiaoyii/leet_code_practice/tree/master/0560-subarray-sum-equals-k) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0208-implement-trie-prefix-tree](https://github.com/zxiaoyii/leet_code_practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/zxiaoyii/leet_code_practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/zxiaoyii/leet_code_practice/tree/master/0212-word-search-ii) |
+| [0242-valid-anagram](https://github.com/zxiaoyii/leet_code_practice/tree/master/0242-valid-anagram) |
 | [0269-alien-dictionary](https://github.com/zxiaoyii/leet_code_practice/tree/master/0269-alien-dictionary) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/zxiaoyii/leet_code_practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/zxiaoyii/leet_code_practice/tree/master/0332-reconstruct-itinerary) |
