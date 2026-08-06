@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0090-subsets-ii](https://github.com/zxiaoyii/leet_code_practice/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/zxiaoyii/leet_code_practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/zxiaoyii/leet_code_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/zxiaoyii/leet_code_practice/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/zxiaoyii/leet_code_practice/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/zxiaoyii/leet_code_practice/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/zxiaoyii/leet_code_practice/tree/master/0136-single-number) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0076-minimum-window-substring](https://github.com/zxiaoyii/leet_code_practice/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/zxiaoyii/leet_code_practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/zxiaoyii/leet_code_practice/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/zxiaoyii/leet_code_practice/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/zxiaoyii/leet_code_practice/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/zxiaoyii/leet_code_practice/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/zxiaoyii/leet_code_practice/tree/master/0146-lru-cache) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/zxiaoyii/leet_code_practice/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/zxiaoyii/leet_code_practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/zxiaoyii/leet_code_practice/tree/master/0200-number-of-islands) |
 | [0261-graph-valid-tree](https://github.com/zxiaoyii/leet_code_practice/tree/master/0261-graph-valid-tree) |
