@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0252-meeting-rooms](https://github.com/zxiaoyii/leet_code_practice/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/zxiaoyii/leet_code_practice/tree/master/0253-meeting-rooms-ii) |
 | [0269-alien-dictionary](https://github.com/zxiaoyii/leet_code_practice/tree/master/0269-alien-dictionary) |
+| [0271-encode-and-decode-strings](https://github.com/zxiaoyii/leet_code_practice/tree/master/0271-encode-and-decode-strings) |
 | [0286-walls-and-gates](https://github.com/zxiaoyii/leet_code_practice/tree/master/0286-walls-and-gates) |
 | [0287-find-the-duplicate-number](https://github.com/zxiaoyii/leet_code_practice/tree/master/0287-find-the-duplicate-number) |
 | [0332-reconstruct-itinerary](https://github.com/zxiaoyii/leet_code_practice/tree/master/0332-reconstruct-itinerary) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0212-word-search-ii](https://github.com/zxiaoyii/leet_code_practice/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/zxiaoyii/leet_code_practice/tree/master/0242-valid-anagram) |
 | [0269-alien-dictionary](https://github.com/zxiaoyii/leet_code_practice/tree/master/0269-alien-dictionary) |
+| [0271-encode-and-decode-strings](https://github.com/zxiaoyii/leet_code_practice/tree/master/0271-encode-and-decode-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/zxiaoyii/leet_code_practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/zxiaoyii/leet_code_practice/tree/master/0332-reconstruct-itinerary) |
 | [0588-design-in-memory-file-system](https://github.com/zxiaoyii/leet_code_practice/tree/master/0588-design-in-memory-file-system) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0146-lru-cache](https://github.com/zxiaoyii/leet_code_practice/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/zxiaoyii/leet_code_practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/zxiaoyii/leet_code_practice/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0271-encode-and-decode-strings](https://github.com/zxiaoyii/leet_code_practice/tree/master/0271-encode-and-decode-strings) |
 | [0295-find-median-from-data-stream](https://github.com/zxiaoyii/leet_code_practice/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/zxiaoyii/leet_code_practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/zxiaoyii/leet_code_practice/tree/master/0355-design-twitter) |
