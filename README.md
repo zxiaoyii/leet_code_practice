@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/zxiaoyii/leet_code_practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/zxiaoyii/leet_code_practice/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/zxiaoyii/leet_code_practice/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/zxiaoyii/leet_code_practice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/zxiaoyii/leet_code_practice/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/zxiaoyii/leet_code_practice/tree/master/0143-reorder-list) |
 | [0253-meeting-rooms-ii](https://github.com/zxiaoyii/leet_code_practice/tree/master/0253-meeting-rooms-ii) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/zxiaoyii/leet_code_practice/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/zxiaoyii/leet_code_practice/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/zxiaoyii/leet_code_practice/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/zxiaoyii/leet_code_practice/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/zxiaoyii/leet_code_practice/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/zxiaoyii/leet_code_practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/zxiaoyii/leet_code_practice/tree/master/0211-design-add-and-search-words-data-structure) |
