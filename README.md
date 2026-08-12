@@ -584,4 +584,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/zxiaoyii/leet_code_practice/tree/master/0020-valid-parentheses) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/zxiaoyii/leet_code_practice/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
