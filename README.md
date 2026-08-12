@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/zxiaoyii/leet_code_practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/zxiaoyii/leet_code_practice/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/zxiaoyii/leet_code_practice/tree/master/0355-design-twitter) |
+| [0424-longest-repeating-character-replacement](https://github.com/zxiaoyii/leet_code_practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/zxiaoyii/leet_code_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0588-design-in-memory-file-system](https://github.com/zxiaoyii/leet_code_practice/tree/master/0588-design-in-memory-file-system) |
 | [0621-task-scheduler](https://github.com/zxiaoyii/leet_code_practice/tree/master/0621-task-scheduler) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0271-encode-and-decode-strings](https://github.com/zxiaoyii/leet_code_practice/tree/master/0271-encode-and-decode-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/zxiaoyii/leet_code_practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/zxiaoyii/leet_code_practice/tree/master/0332-reconstruct-itinerary) |
+| [0424-longest-repeating-character-replacement](https://github.com/zxiaoyii/leet_code_practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0588-design-in-memory-file-system](https://github.com/zxiaoyii/leet_code_practice/tree/master/0588-design-in-memory-file-system) |
 | [0678-valid-parenthesis-string](https://github.com/zxiaoyii/leet_code_practice/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/zxiaoyii/leet_code_practice/tree/master/0763-partition-labels) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/zxiaoyii/leet_code_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/zxiaoyii/leet_code_practice/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/zxiaoyii/leet_code_practice/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/zxiaoyii/leet_code_practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/zxiaoyii/leet_code_practice/tree/master/0904-fruit-into-baskets) |
 ## Queue
 |  |
