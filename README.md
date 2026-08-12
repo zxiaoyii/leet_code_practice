@@ -578,4 +578,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0895-maximum-frequency-stack](https://github.com/zxiaoyii/leet_code_practice/tree/master/0895-maximum-frequency-stack) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/zxiaoyii/leet_code_practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
