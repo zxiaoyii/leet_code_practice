@@ -6,5 +6,3 @@ class Solution:
                 return False
             maxReach = max(maxReach, i + n)
         return True
-            
-
