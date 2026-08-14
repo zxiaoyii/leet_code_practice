@@ -588,4 +588,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/zxiaoyii/leet_code_practice/tree/master/0023-merge-k-sorted-lists) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/zxiaoyii/leet_code_practice/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
