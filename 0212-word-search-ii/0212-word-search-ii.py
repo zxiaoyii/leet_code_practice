@@ -1,9 +1,10 @@
 class TrieNode:
     def __init__(self):
-        self.children = {} # char -> node
+        self.children = {}
         self.word = None
-
+        
 class Solution:
+
     def findWords(self, board: List[List[str]], words: List[str]) -> List[str]:
         res = []
         m, n = len(board), len(board[0])
@@ -39,3 +40,4 @@ class Solution:
                 dfs(i, j, root)
         
         return res
+                
