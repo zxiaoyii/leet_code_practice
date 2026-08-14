@@ -3,9 +3,9 @@ class Solution:
         intervals.sort(key = lambda x: x[1])
         count = 0
         end = float('-inf')
-        for start, e in intervals:
-            if start >= end:
-                end = e
+        for a, b in intervals:
+            if a >= end:
+                end = b
             else:
                 count += 1
         return count
