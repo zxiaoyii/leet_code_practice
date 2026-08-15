@@ -9,7 +9,7 @@ class Solution:
         # bfs(dijkstra)
 
         queue = deque([i for i in range(len(indegree)) if indegree[i] == 0])
-
+      
         while queue:
             idx = queue.popleft()
             for course in graph[idx]:
