@@ -4,60 +4,72 @@ class ListNode:
         self.next = None
         self.key = key
         self.val = val
-
 class LRUCache:
 
     def __init__(self, capacity: int):
         self.capacity = capacity
         self.cache = {} # key -> nodes
-        self.start = ListNode()
+        self.start = ListNode() # LRU
         self.end = ListNode()
         self.start.next = self.end
         self.end.prev = self.start
 
     def get(self, key: int) -> int:
+        # get the node through cache if key exist
         if key in self.cache:
             node = self.cache[key]
-            # delete node
+            #delete the node
             self.deleteNodeFromLinkedList(node)
-            # move node to the most recent
-            self.moveToFrequent(node)
+            #add it back to most frequent
+            self.addNodeToMostFrequent(node)
             return node.val
         else:
             return -1
 
     def put(self, key: int, value: int) -> None:
+        # if key exist or not
         if key in self.cache:
+            # update the value of key
+            # get the node form cache
             node = self.cache[key]
-            node.val = value
-            # delete node
+            # delete
             self.deleteNodeFromLinkedList(node)
-            # move node to most recent
-            self.moveToFrequent(node)
+            # update it 
+            node.val = value
+            # move to most frequent
+            self.addNodeToMostFrequent(node)
         else:
-            node = ListNode(key, value)
-            self.cache[key] = node
-            # move node(new) to most recent
-            self.moveToFrequent(node)
-            if len(self.cache) > self.capacity:
-                #delete the least recently used node
+            # add the k-v pare
+            # exceed capacity?
+            if self.capacity == len(self.cache):
+                #delete LRU
                 temp = self.start.next
                 self.deleteNodeFromLinkedList(temp)
-                #delete it from cache
                 del self.cache[temp.key]
 
+            # add to cache
+            node = ListNode(key, value)
+            self.cache[key] = node
+            # add to linkedList(most frequent)
+            self.addNodeToMostFrequent(node)
+
+    
     def deleteNodeFromLinkedList(self, node):
-        node.prev.next = node.next
-        node.next.prev = node.prev
+        p = node.prev
+        n = node.next
+        p.next = n
+        n.prev = p
         node.next = None
         node.prev = None
 
-    def moveToFrequent(self, node):
-        temp = self.end.prev
-        temp.next = node
-        node.prev = temp
-        self.end.prev = node
+    def addNodeToMostFrequent(self, node):
+        p = self.end.prev
+        p.next = node
         node.next = self.end
+        node.prev = p
+        self.end.prev = node
+        
+
 
 # Your LRUCache object will be instantiated and called as such:
 # obj = LRUCache(capacity)
