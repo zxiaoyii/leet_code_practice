@@ -19,6 +19,7 @@ class Solution:
             root.left = build(lo, mid - 1)
             root.right = build(mid + 1, hi)
             return root
-    
+        
         return build(0, len(inorder) - 1)
+            
 
