@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0695-max-area-of-island](https://github.com/zxiaoyii/leet_code_practice/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/zxiaoyii/leet_code_practice/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/zxiaoyii/leet_code_practice/tree/master/0739-daily-temperatures) |
+| [0845-longest-mountain-in-array](https://github.com/zxiaoyii/leet_code_practice/tree/master/0845-longest-mountain-in-array) |
 | [0846-hand-of-straights](https://github.com/zxiaoyii/leet_code_practice/tree/master/0846-hand-of-straights) |
 | [0875-koko-eating-bananas](https://github.com/zxiaoyii/leet_code_practice/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/zxiaoyii/leet_code_practice/tree/master/0904-fruit-into-baskets) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0295-find-median-from-data-stream](https://github.com/zxiaoyii/leet_code_practice/tree/master/0295-find-median-from-data-stream) |
 | [0647-palindromic-substrings](https://github.com/zxiaoyii/leet_code_practice/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/zxiaoyii/leet_code_practice/tree/master/0763-partition-labels) |
+| [0845-longest-mountain-in-array](https://github.com/zxiaoyii/leet_code_practice/tree/master/0845-longest-mountain-in-array) |
 ## Sorting
 |  |
 | ------- |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0647-palindromic-substrings](https://github.com/zxiaoyii/leet_code_practice/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/zxiaoyii/leet_code_practice/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/zxiaoyii/leet_code_practice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0845-longest-mountain-in-array](https://github.com/zxiaoyii/leet_code_practice/tree/master/0845-longest-mountain-in-array) |
 ## Stack
 |  |
 | ------- |
@@ -588,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [0845-longest-mountain-in-array](https://github.com/zxiaoyii/leet_code_practice/tree/master/0845-longest-mountain-in-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/zxiaoyii/leet_code_practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Combinatorics
 |  |
