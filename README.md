@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/zxiaoyii/leet_code_practice/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/zxiaoyii/leet_code_practice/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/zxiaoyii/leet_code_practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0432-all-oone-data-structure](https://github.com/zxiaoyii/leet_code_practice/tree/master/0432-all-oone-data-structure) |
 | [0560-subarray-sum-equals-k](https://github.com/zxiaoyii/leet_code_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0588-design-in-memory-file-system](https://github.com/zxiaoyii/leet_code_practice/tree/master/0588-design-in-memory-file-system) |
 | [0621-task-scheduler](https://github.com/zxiaoyii/leet_code_practice/tree/master/0621-task-scheduler) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0295-find-median-from-data-stream](https://github.com/zxiaoyii/leet_code_practice/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/zxiaoyii/leet_code_practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/zxiaoyii/leet_code_practice/tree/master/0355-design-twitter) |
+| [0432-all-oone-data-structure](https://github.com/zxiaoyii/leet_code_practice/tree/master/0432-all-oone-data-structure) |
 | [0588-design-in-memory-file-system](https://github.com/zxiaoyii/leet_code_practice/tree/master/0588-design-in-memory-file-system) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/zxiaoyii/leet_code_practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0895-maximum-frequency-stack](https://github.com/zxiaoyii/leet_code_practice/tree/master/0895-maximum-frequency-stack) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0146-lru-cache](https://github.com/zxiaoyii/leet_code_practice/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/zxiaoyii/leet_code_practice/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/zxiaoyii/leet_code_practice/tree/master/0355-design-twitter) |
+| [0432-all-oone-data-structure](https://github.com/zxiaoyii/leet_code_practice/tree/master/0432-all-oone-data-structure) |
 ## Recursion
 |  |
 | ------- |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/zxiaoyii/leet_code_practice/tree/master/0146-lru-cache) |
+| [0432-all-oone-data-structure](https://github.com/zxiaoyii/leet_code_practice/tree/master/0432-all-oone-data-structure) |
 ## Tree
 |  |
 | ------- |
