@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0973-k-closest-points-to-origin](https://github.com/zxiaoyii/leet_code_practice/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/zxiaoyii/leet_code_practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/zxiaoyii/leet_code_practice/tree/master/0994-rotting-oranges) |
+| [1043-partition-array-for-maximum-sum](https://github.com/zxiaoyii/leet_code_practice/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-last-stone-weight](https://github.com/zxiaoyii/leet_code_practice/tree/master/1046-last-stone-weight) |
 | [1584-min-cost-to-connect-all-points](https://github.com/zxiaoyii/leet_code_practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/zxiaoyii/leet_code_practice/tree/master/1851-minimum-interval-to-include-each-query) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0678-valid-parenthesis-string](https://github.com/zxiaoyii/leet_code_practice/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/zxiaoyii/leet_code_practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0845-longest-mountain-in-array](https://github.com/zxiaoyii/leet_code_practice/tree/master/0845-longest-mountain-in-array) |
+| [1043-partition-array-for-maximum-sum](https://github.com/zxiaoyii/leet_code_practice/tree/master/1043-partition-array-for-maximum-sum) |
 ## Stack
 |  |
 | ------- |
