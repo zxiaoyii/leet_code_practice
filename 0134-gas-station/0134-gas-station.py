@@ -4,7 +4,7 @@ class Solution:
             return -1
         
         n = len(gas)
-        tank = 0
+        tank = 0 
         start = 0
         for i in range(n):
             tank += gas[i] - cost[i]
