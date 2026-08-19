@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0208-implement-trie-prefix-tree](https://github.com/zxiaoyii/leet_code_practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/zxiaoyii/leet_code_practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/zxiaoyii/leet_code_practice/tree/master/0212-word-search-ii) |
+| [0227-basic-calculator-ii](https://github.com/zxiaoyii/leet_code_practice/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/zxiaoyii/leet_code_practice/tree/master/0242-valid-anagram) |
 | [0269-alien-dictionary](https://github.com/zxiaoyii/leet_code_practice/tree/master/0269-alien-dictionary) |
 | [0271-encode-and-decode-strings](https://github.com/zxiaoyii/leet_code_practice/tree/master/0271-encode-and-decode-strings) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/zxiaoyii/leet_code_practice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/zxiaoyii/leet_code_practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/zxiaoyii/leet_code_practice/tree/master/0143-reorder-list) |
+| [0227-basic-calculator-ii](https://github.com/zxiaoyii/leet_code_practice/tree/master/0227-basic-calculator-ii) |
 | [0678-valid-parenthesis-string](https://github.com/zxiaoyii/leet_code_practice/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/zxiaoyii/leet_code_practice/tree/master/0739-daily-temperatures) |
 | [0895-maximum-frequency-stack](https://github.com/zxiaoyii/leet_code_practice/tree/master/0895-maximum-frequency-stack) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0062-unique-paths](https://github.com/zxiaoyii/leet_code_practice/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/zxiaoyii/leet_code_practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/zxiaoyii/leet_code_practice/tree/master/0070-climbing-stairs) |
+| [0227-basic-calculator-ii](https://github.com/zxiaoyii/leet_code_practice/tree/master/0227-basic-calculator-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/zxiaoyii/leet_code_practice/tree/master/0973-k-closest-points-to-origin) |
 ## Bit Manipulation
 |  |
