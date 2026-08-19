@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0134-gas-station](https://github.com/zxiaoyii/leet_code_practice/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/zxiaoyii/leet_code_practice/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/zxiaoyii/leet_code_practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/zxiaoyii/leet_code_practice/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/zxiaoyii/leet_code_practice/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/zxiaoyii/leet_code_practice/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/zxiaoyii/leet_code_practice/tree/master/0212-word-search-ii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/zxiaoyii/leet_code_practice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/zxiaoyii/leet_code_practice/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/zxiaoyii/leet_code_practice/tree/master/0143-reorder-list) |
+| [0189-rotate-array](https://github.com/zxiaoyii/leet_code_practice/tree/master/0189-rotate-array) |
 | [0253-meeting-rooms-ii](https://github.com/zxiaoyii/leet_code_practice/tree/master/0253-meeting-rooms-ii) |
 | [0287-find-the-duplicate-number](https://github.com/zxiaoyii/leet_code_practice/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/zxiaoyii/leet_code_practice/tree/master/0295-find-median-from-data-stream) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0062-unique-paths](https://github.com/zxiaoyii/leet_code_practice/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/zxiaoyii/leet_code_practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/zxiaoyii/leet_code_practice/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/zxiaoyii/leet_code_practice/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/zxiaoyii/leet_code_practice/tree/master/0227-basic-calculator-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/zxiaoyii/leet_code_practice/tree/master/0973-k-closest-points-to-origin) |
 ## Bit Manipulation
