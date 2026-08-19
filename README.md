@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0994-rotting-oranges](https://github.com/zxiaoyii/leet_code_practice/tree/master/0994-rotting-oranges) |
 | [1043-partition-array-for-maximum-sum](https://github.com/zxiaoyii/leet_code_practice/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-last-stone-weight](https://github.com/zxiaoyii/leet_code_practice/tree/master/1046-last-stone-weight) |
+| [1352-product-of-the-last-k-numbers](https://github.com/zxiaoyii/leet_code_practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1584-min-cost-to-connect-all-points](https://github.com/zxiaoyii/leet_code_practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/zxiaoyii/leet_code_practice/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/zxiaoyii/leet_code_practice/tree/master/1899-merge-triplets-to-form-target-triplet) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0703-kth-largest-element-in-a-stream](https://github.com/zxiaoyii/leet_code_practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0895-maximum-frequency-stack](https://github.com/zxiaoyii/leet_code_practice/tree/master/0895-maximum-frequency-stack) |
 | [0981-time-based-key-value-store](https://github.com/zxiaoyii/leet_code_practice/tree/master/0981-time-based-key-value-store) |
+| [1352-product-of-the-last-k-numbers](https://github.com/zxiaoyii/leet_code_practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1603-design-parking-system](https://github.com/zxiaoyii/leet_code_practice/tree/master/1603-design-parking-system) |
 ## Divide and Conquer
 |  |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/zxiaoyii/leet_code_practice/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/zxiaoyii/leet_code_practice/tree/master/0227-basic-calculator-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/zxiaoyii/leet_code_practice/tree/master/0973-k-closest-points-to-origin) |
+| [1352-product-of-the-last-k-numbers](https://github.com/zxiaoyii/leet_code_practice/tree/master/1352-product-of-the-last-k-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -478,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/zxiaoyii/leet_code_practice/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/zxiaoyii/leet_code_practice/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/zxiaoyii/leet_code_practice/tree/master/1352-product-of-the-last-k-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -584,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0253-meeting-rooms-ii](https://github.com/zxiaoyii/leet_code_practice/tree/master/0253-meeting-rooms-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/zxiaoyii/leet_code_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/zxiaoyii/leet_code_practice/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/zxiaoyii/leet_code_practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [2488-count-subarrays-with-median-k](https://github.com/zxiaoyii/leet_code_practice/tree/master/2488-count-subarrays-with-median-k) |
 ## Shortest Path
 |  |
