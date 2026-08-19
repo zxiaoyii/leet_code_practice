@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0694-number-of-distinct-islands](https://github.com/zxiaoyii/leet_code_practice/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/zxiaoyii/leet_code_practice/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/zxiaoyii/leet_code_practice/tree/master/0704-binary-search) |
+| [0706-design-hashmap](https://github.com/zxiaoyii/leet_code_practice/tree/master/0706-design-hashmap) |
 | [0739-daily-temperatures](https://github.com/zxiaoyii/leet_code_practice/tree/master/0739-daily-temperatures) |
 | [0845-longest-mountain-in-array](https://github.com/zxiaoyii/leet_code_practice/tree/master/0845-longest-mountain-in-array) |
 | [0846-hand-of-straights](https://github.com/zxiaoyii/leet_code_practice/tree/master/0846-hand-of-straights) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0588-design-in-memory-file-system](https://github.com/zxiaoyii/leet_code_practice/tree/master/0588-design-in-memory-file-system) |
 | [0621-task-scheduler](https://github.com/zxiaoyii/leet_code_practice/tree/master/0621-task-scheduler) |
 | [0694-number-of-distinct-islands](https://github.com/zxiaoyii/leet_code_practice/tree/master/0694-number-of-distinct-islands) |
+| [0706-design-hashmap](https://github.com/zxiaoyii/leet_code_practice/tree/master/0706-design-hashmap) |
 | [0763-partition-labels](https://github.com/zxiaoyii/leet_code_practice/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/zxiaoyii/leet_code_practice/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/zxiaoyii/leet_code_practice/tree/master/0846-hand-of-straights) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0432-all-oone-data-structure](https://github.com/zxiaoyii/leet_code_practice/tree/master/0432-all-oone-data-structure) |
 | [0588-design-in-memory-file-system](https://github.com/zxiaoyii/leet_code_practice/tree/master/0588-design-in-memory-file-system) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/zxiaoyii/leet_code_practice/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0706-design-hashmap](https://github.com/zxiaoyii/leet_code_practice/tree/master/0706-design-hashmap) |
 | [0895-maximum-frequency-stack](https://github.com/zxiaoyii/leet_code_practice/tree/master/0895-maximum-frequency-stack) |
 | [0981-time-based-key-value-store](https://github.com/zxiaoyii/leet_code_practice/tree/master/0981-time-based-key-value-store) |
 | [1352-product-of-the-last-k-numbers](https://github.com/zxiaoyii/leet_code_practice/tree/master/1352-product-of-the-last-k-numbers) |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0206-reverse-linked-list](https://github.com/zxiaoyii/leet_code_practice/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/zxiaoyii/leet_code_practice/tree/master/0355-design-twitter) |
 | [0432-all-oone-data-structure](https://github.com/zxiaoyii/leet_code_practice/tree/master/0432-all-oone-data-structure) |
+| [0706-design-hashmap](https://github.com/zxiaoyii/leet_code_practice/tree/master/0706-design-hashmap) |
 ## Recursion
 |  |
 | ------- |
@@ -543,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/zxiaoyii/leet_code_practice/tree/master/0572-subtree-of-another-tree) |
 | [0694-number-of-distinct-islands](https://github.com/zxiaoyii/leet_code_practice/tree/master/0694-number-of-distinct-islands) |
+| [0706-design-hashmap](https://github.com/zxiaoyii/leet_code_practice/tree/master/0706-design-hashmap) |
 ## Union-Find
 |  |
 | ------- |
