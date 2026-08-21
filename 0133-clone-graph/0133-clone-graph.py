@@ -18,8 +18,8 @@ class Solution:
                 return visited[node]
             clone = Node(node.val)
             visited[node] = clone
-            for neighbor in node.neighbors:
-                clone.neighbors.append(dfs(neighbor))
+            for n in node.neighbors:
+                clone.neighbors.append(dfs(n))
             return clone
 
         return dfs(node)
