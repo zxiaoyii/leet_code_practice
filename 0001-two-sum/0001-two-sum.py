@@ -4,5 +4,4 @@ class Solution:
         for i, num in enumerate(nums):
             if num in d:
                 return [d[num], i]
-            else:
-                d[target - num] = i
+            d[target - num] = i
