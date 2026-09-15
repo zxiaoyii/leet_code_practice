@@ -14,6 +14,7 @@ class Solution:
             fast = fast.next.next
         # reverse
         cur = slow.next
+        slow.next = None
         prev = None
         while cur:
             node = cur.next
