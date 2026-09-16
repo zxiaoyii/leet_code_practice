@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/zxiaoyii/leet_code_practice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/zxiaoyii/leet_code_practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/zxiaoyii/leet_code_practice/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/zxiaoyii/leet_code_practice/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/zxiaoyii/leet_code_practice/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/zxiaoyii/leet_code_practice/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/zxiaoyii/leet_code_practice/tree/master/0678-valid-parenthesis-string) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/zxiaoyii/leet_code_practice/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/zxiaoyii/leet_code_practice/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/zxiaoyii/leet_code_practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/zxiaoyii/leet_code_practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0271-encode-and-decode-strings](https://github.com/zxiaoyii/leet_code_practice/tree/master/0271-encode-and-decode-strings) |
