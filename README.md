@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0134-gas-station](https://github.com/zxiaoyii/leet_code_practice/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/zxiaoyii/leet_code_practice/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/zxiaoyii/leet_code_practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/zxiaoyii/leet_code_practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/zxiaoyii/leet_code_practice/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/zxiaoyii/leet_code_practice/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/zxiaoyii/leet_code_practice/tree/master/0200-number-of-islands) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0016-3sum-closest](https://github.com/zxiaoyii/leet_code_practice/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/zxiaoyii/leet_code_practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/zxiaoyii/leet_code_practice/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/zxiaoyii/leet_code_practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/zxiaoyii/leet_code_practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/zxiaoyii/leet_code_practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/zxiaoyii/leet_code_practice/tree/master/0242-valid-anagram) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/zxiaoyii/leet_code_practice/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/zxiaoyii/leet_code_practice/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/zxiaoyii/leet_code_practice/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/zxiaoyii/leet_code_practice/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/zxiaoyii/leet_code_practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/zxiaoyii/leet_code_practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/zxiaoyii/leet_code_practice/tree/master/0242-valid-anagram) |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0023-merge-k-sorted-lists](https://github.com/zxiaoyii/leet_code_practice/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/zxiaoyii/leet_code_practice/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/zxiaoyii/leet_code_practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/zxiaoyii/leet_code_practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/zxiaoyii/leet_code_practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/zxiaoyii/leet_code_practice/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/zxiaoyii/leet_code_practice/tree/master/0973-k-closest-points-to-origin) |
@@ -516,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/zxiaoyii/leet_code_practice/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/zxiaoyii/leet_code_practice/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/zxiaoyii/leet_code_practice/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/zxiaoyii/leet_code_practice/tree/master/0767-reorganize-string) |
@@ -681,4 +686,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/zxiaoyii/leet_code_practice/tree/master/0005-longest-palindromic-substring) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/zxiaoyii/leet_code_practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
