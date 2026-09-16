@@ -5,10 +5,10 @@ class Solution:
         dirs = [(1, 0), (-1, 0), (0, 1), (0, -1)]
         
         def dfs(a, b):
+            grid[a][b] = '0'
             for dr, dc in dirs:
                 nr, nc = a + dr, b + dc
                 if 0 <= nr < m and 0 <= nc < n and grid[nr][nc] == '1':
-                    grid[nr][nc] = '0'
                     dfs(nr, nc)
 
         for i in range(m):
