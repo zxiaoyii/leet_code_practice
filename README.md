@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0271-encode-and-decode-strings](https://github.com/zxiaoyii/leet_code_practice/tree/master/0271-encode-and-decode-strings) |
 | [0286-walls-and-gates](https://github.com/zxiaoyii/leet_code_practice/tree/master/0286-walls-and-gates) |
 | [0287-find-the-duplicate-number](https://github.com/zxiaoyii/leet_code_practice/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/zxiaoyii/leet_code_practice/tree/master/0322-coin-change) |
 | [0332-reconstruct-itinerary](https://github.com/zxiaoyii/leet_code_practice/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/zxiaoyii/leet_code_practice/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/zxiaoyii/leet_code_practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0198-house-robber](https://github.com/zxiaoyii/leet_code_practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/zxiaoyii/leet_code_practice/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/zxiaoyii/leet_code_practice/tree/master/0221-maximal-square) |
+| [0322-coin-change](https://github.com/zxiaoyii/leet_code_practice/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/zxiaoyii/leet_code_practice/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/zxiaoyii/leet_code_practice/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/zxiaoyii/leet_code_practice/tree/master/0678-valid-parenthesis-string) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0269-alien-dictionary](https://github.com/zxiaoyii/leet_code_practice/tree/master/0269-alien-dictionary) |
 | [0286-walls-and-gates](https://github.com/zxiaoyii/leet_code_practice/tree/master/0286-walls-and-gates) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/zxiaoyii/leet_code_practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/zxiaoyii/leet_code_practice/tree/master/0322-coin-change) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/zxiaoyii/leet_code_practice/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0417-pacific-atlantic-water-flow](https://github.com/zxiaoyii/leet_code_practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/zxiaoyii/leet_code_practice/tree/master/0547-number-of-provinces) |
@@ -717,4 +720,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0139-word-break](https://github.com/zxiaoyii/leet_code_practice/tree/master/0139-word-break) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/zxiaoyii/leet_code_practice/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/zxiaoyii/leet_code_practice/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
