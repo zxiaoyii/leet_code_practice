@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0090-subsets-ii](https://github.com/zxiaoyii/leet_code_practice/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/zxiaoyii/leet_code_practice/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/zxiaoyii/leet_code_practice/tree/master/0287-find-the-duplicate-number) |
+| [0461-hamming-distance](https://github.com/zxiaoyii/leet_code_practice/tree/master/0461-hamming-distance) |
 ## Doubly-Linked List
 |  |
 | ------- |
