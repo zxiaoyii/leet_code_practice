@@ -1,11 +1,10 @@
 class Solution:
-    def minInterval(self, intervals: List[List[int]], queries: List[int]) -> List[int]:
+    def minInterval(self, intervals: list[list[int]], queries: list[int]) -> list[int]:
         intervals.sort()
-        sorted_queries = sorted(enumerate(queries), key = lambda x: x[1])
+        sorted_queries = sorted(enumerate(queries), key=lambda x: x[1])
         res = [-1] * len(queries)
-        heap = [] #(interval_len, interval_end)
+        heap = []
         i = 0
-
         for idx, q in sorted_queries:
             while i < len(intervals) and intervals[i][0] <= q:
                 l, r = intervals[i]
