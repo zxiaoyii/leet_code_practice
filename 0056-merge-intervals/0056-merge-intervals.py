@@ -8,7 +8,7 @@ class Solution:
         while i < n:
             a, b = intervals[i][0], intervals[i][1]
             if a <= res[-1][1]:
-                res[-1][0] = min(a, res[-1][0])
+                # res[-1][0] = min(a, res[-1][0])
                 res[-1][1] = max(b, res[-1][1])
             else:
                 res.append(intervals[i])
