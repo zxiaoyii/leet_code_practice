@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0253-meeting-rooms-ii](https://github.com/zxiaoyii/leet_code_practice/tree/master/0253-meeting-rooms-ii) |
 | [0287-find-the-duplicate-number](https://github.com/zxiaoyii/leet_code_practice/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/zxiaoyii/leet_code_practice/tree/master/0295-find-median-from-data-stream) |
+| [0567-permutation-in-string](https://github.com/zxiaoyii/leet_code_practice/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/zxiaoyii/leet_code_practice/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/zxiaoyii/leet_code_practice/tree/master/0763-partition-labels) |
 | [0845-longest-mountain-in-array](https://github.com/zxiaoyii/leet_code_practice/tree/master/0845-longest-mountain-in-array) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0432-all-oone-data-structure](https://github.com/zxiaoyii/leet_code_practice/tree/master/0432-all-oone-data-structure) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/zxiaoyii/leet_code_practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/zxiaoyii/leet_code_practice/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/zxiaoyii/leet_code_practice/tree/master/0567-permutation-in-string) |
 | [0588-design-in-memory-file-system](https://github.com/zxiaoyii/leet_code_practice/tree/master/0588-design-in-memory-file-system) |
 | [0621-task-scheduler](https://github.com/zxiaoyii/leet_code_practice/tree/master/0621-task-scheduler) |
 | [0694-number-of-distinct-islands](https://github.com/zxiaoyii/leet_code_practice/tree/master/0694-number-of-distinct-islands) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/zxiaoyii/leet_code_practice/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/zxiaoyii/leet_code_practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/zxiaoyii/leet_code_practice/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/zxiaoyii/leet_code_practice/tree/master/0567-permutation-in-string) |
 | [0588-design-in-memory-file-system](https://github.com/zxiaoyii/leet_code_practice/tree/master/0588-design-in-memory-file-system) |
 | [0647-palindromic-substrings](https://github.com/zxiaoyii/leet_code_practice/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/zxiaoyii/leet_code_practice/tree/master/0678-valid-parenthesis-string) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/zxiaoyii/leet_code_practice/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/zxiaoyii/leet_code_practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/zxiaoyii/leet_code_practice/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/zxiaoyii/leet_code_practice/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/zxiaoyii/leet_code_practice/tree/master/0904-fruit-into-baskets) |
 ## Queue
 |  |
