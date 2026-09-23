@@ -1,13 +1,18 @@
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
-        left = 0
-        max_c = 0
-        d = defaultdict(int)
-        for right in range(len(s)):
-            d[s[right]] += 1
-            max_c = max(max_c, d[s[right]])
-            if right - left + 1 - max_c > k:
-                d[s[left]] -= 1
-                left += 1
-        return len(s) - left
-                 
+        window = defaultdict(int)
+        l = 0
+        res = 0
+        maxf = 0
+        for r, c in enumerate(s):
+            window[c] += 1
+            maxf = max(maxf, window[c])
+            if r - l + 1 - maxf > k:
+                window[s[l]] -= 1
+                l += 1
+            res = max(res, r - l + 1)
+        return res
+
+
+            
+            
