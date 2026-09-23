@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0134-gas-station](https://github.com/zxiaoyii/leet_code_practice/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/zxiaoyii/leet_code_practice/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/zxiaoyii/leet_code_practice/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/zxiaoyii/leet_code_practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/zxiaoyii/leet_code_practice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/zxiaoyii/leet_code_practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/zxiaoyii/leet_code_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/zxiaoyii/leet_code_practice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/zxiaoyii/leet_code_practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/zxiaoyii/leet_code_practice/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/zxiaoyii/leet_code_practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/zxiaoyii/leet_code_practice/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/zxiaoyii/leet_code_practice/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/zxiaoyii/leet_code_practice/tree/master/0234-palindrome-linked-list) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0062-unique-paths](https://github.com/zxiaoyii/leet_code_practice/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/zxiaoyii/leet_code_practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/zxiaoyii/leet_code_practice/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/zxiaoyii/leet_code_practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/zxiaoyii/leet_code_practice/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/zxiaoyii/leet_code_practice/tree/master/0227-basic-calculator-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/zxiaoyii/leet_code_practice/tree/master/0973-k-closest-points-to-origin) |
