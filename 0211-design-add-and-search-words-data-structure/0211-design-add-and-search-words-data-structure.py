@@ -24,17 +24,18 @@ class WordDictionary:
     def _dfs(self, word: str, i: int, node: TrieNode) -> bool:
         if i == len(word):
             return node.is_end
-        ch = word[i]
-        if ch == '.':
-            for child in node.children.values():
-                if self._dfs(word, i + 1, child):
+        c = word[i]
+        if c == '.':
+            for a, n in node.children.items():
+                if self._dfs(word, i + 1, n):
                     return True
             return False
         else:
-            if ch not in node.children:
+            if c in node.children:
+                return self._dfs(word, i + 1, node.children[c])
+            else:
                 return False
-            return self._dfs(word, i+ 1, node.children[ch])
-        
+
 
 # Your WordDictionary object will be instantiated and called as such:
 # obj = WordDictionary()
