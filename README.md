@@ -749,4 +749,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/zxiaoyii/leet_code_practice/tree/master/0406-queue-reconstruction-by-height) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/zxiaoyii/leet_code_practice/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
