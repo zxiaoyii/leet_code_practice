@@ -15,16 +15,13 @@ class Solution:
                 if window[c] == need[c]:
                     valid += 1
             while valid == len(need):
-                if r - l +1 < length:
+                if r - l + 1 < length:
                     start = l
-                    length = r - l +1
+                    length = r - l + 1
                 d = s[l]
                 l += 1
                 if d in need:
                     if window[d] == need[d]:
                         valid -= 1
                     window[d] -= 1
-        return "" if length == float('inf') else s[start : start + length]
-
-           
-            
+        return "" if length == float('inf') else s[start: start + length]
