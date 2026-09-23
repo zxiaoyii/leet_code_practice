@@ -1,7 +1,7 @@
 class TrieNode:
     def __init__(self):
-        self.is_end = False
         self.children = {}
+        self.is_word = False
 
 class Trie:
 
@@ -11,30 +11,29 @@ class Trie:
     def insert(self, word: str) -> None:
         node = self.root
         for c in word:
-            if not c in node.children:
+            if c not in node.children:
                 node.children[c] = TrieNode()
             node = node.children[c]
-        node.is_end = True
-   
-    def search(self, word: str) -> bool:
-        a = self._exist(word)
-        if a:
-            return a
-        return False 
-        
+            
+        node.is_word = True
 
-    def startsWith(self, prefix: str) -> bool:
-        return self._exist(prefix) is not None
-    
-    def _exist(self, w: str) -> bool:
+    def exist(self, word: str) -> TrieNode:
         node = self.root
-        for c in w:
+        for c in word:
             if c in node.children:
                 node = node.children[c]
             else:
                 return None
-        return node.is_end
+        return node 
+
+
+    def search(self, word: str) -> bool:
+        node = self.exist(word)
+        return node.is_word if node else False
         
+    def startsWith(self, prefix: str) -> bool:
+        node = self.exist(prefix)
+        return True if node else False
         
 
 
