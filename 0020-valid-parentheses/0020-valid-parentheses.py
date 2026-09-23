@@ -10,4 +10,4 @@ class Solution:
                     return False
                 if stack.pop() != dic[c]:
                     return False
-        return True if len(stack) == 0 else False
+        return not stack
