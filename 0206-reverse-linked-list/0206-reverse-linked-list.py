@@ -8,7 +8,7 @@ class Solution:
         prev = None
         cur = head
         while cur:
-            node = cur.next 
+            node = cur.next
             cur.next = prev
             prev = cur
             cur = node
