@@ -10,13 +10,11 @@ class Solution:
             if l:
                 heapq.heappush(heap, (l.val, i, l))
         dummy = ListNode()
-        cur = dummy
+        node = dummy
         while heap:
-            val, i, node = heapq.heappop(heap)
-            cur.next = node
-            temp = node.next
-            node.next = None
-            cur = cur.next
-            if temp:
-                heapq.heappush(heap, (temp.val, i, temp))
+            val, i, n = heapq.heappop(heap)
+            node.next = n
+            if n.next:
+                heapq.heappush(heap, (n.next.val, i, n.next))
+            node = node.next
         return dummy.next
