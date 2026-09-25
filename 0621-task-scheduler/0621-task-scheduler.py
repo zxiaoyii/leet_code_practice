@@ -1,5 +1,5 @@
 class Solution:
-    def leastInterval(self, tasks: List[str], n: int) -> int:
+    def leastInterval(self, tasks: list[str], n: int) -> int:
         freq = [0] * 26
         for t in tasks:
             freq[ord(t) - ord('A')] += 1
