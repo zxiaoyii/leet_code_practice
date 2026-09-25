@@ -1,10 +1,12 @@
 class Solution:
-    def kClosest(self, points: List[List[int]], k: int) -> List[List[int]]:
-        max_heap = []
-        for x, y in points:
-            dist = x * x + y * y
-            if len(max_heap) < k:
-                heapq.heappush(max_heap, (-dist, x, y))
-            elif -dist > max_heap[0][0]:
-                heapq.heapreplace(max_heap, (-dist, x, y))
-        return [[x, y] for (_, x, y) in max_heap]
+    def kClosest(self, points: list[list[int]], k: int) -> list[list[int]]:
+        heap = []
+        for i, p in enumerate(points):
+            d = p[0] * p[0] + p[1] * p[1]
+            heapq.heappush(heap, (-d, i))
+            if len(heap) > k:
+                heapq.heappop(heap)
+        res = []
+        for d, i in heap:
+            res.append(points[i])
+        return res
