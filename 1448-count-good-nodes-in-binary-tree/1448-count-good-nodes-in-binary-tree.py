@@ -15,3 +15,4 @@ class Solution:
             return good + dfs(node.left, max_val) + dfs(node.right, max_val)
 
         return dfs(root, root.val)
+            
