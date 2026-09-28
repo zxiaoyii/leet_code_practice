@@ -1,26 +1,20 @@
 from collections import deque
-
+INF = 2147483647
 class Solution:
-    def wallsAndGates(self, rooms: List[List[int]]) -> None:
-        """
-        Do not return anything, modify rooms in-place instead.
-        """
+    def wallsAndGates(self, rooms: list[list[int]]) -> None:
+        if not rooms or not rooms[0]:
+            return
         m, n = len(rooms), len(rooms[0])
-        dir = [(1, 0), (-1, 0), (0, 1), (0, -1)]
-
-        queue = deque()
-
-        #put all doors into the deque
-        for i in range(m):
-            for j in range(n):
-                if rooms[i][j] == 0:
-                    queue.append((i, j))
-
-        #BFS
-        while queue:
-            r, c = queue.popleft()
-            for dr, dc in dir:
+        dirs = [(1,0), (-1,0), (0,1), (0,-1)]
+        q = deque()
+        for r in range(m):
+            for c in range(n):
+                if rooms[r][c] == 0:
+                    q.append((r, c))
+        while q:
+            r, c = q.popleft()
+            for dr, dc in dirs:
                 nr, nc = r + dr, c + dc
-                if 0 <= nr < m and 0 <= nc < n and rooms[nr][nc] == 2147483647:
+                if 0 <= nr < m and 0 <= nc < n and rooms[nr][nc] == INF:
                     rooms[nr][nc] = rooms[r][c] + 1
-                    queue.append((nr, nc))
+                    q.append((nr, nc))
