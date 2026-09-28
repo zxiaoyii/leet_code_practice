@@ -12,7 +12,6 @@ class Solution:
         if not node:
             return None
         visited = {}
-
         def dfs(node):
             if node in visited:
                 return visited[node]
@@ -21,5 +20,4 @@ class Solution:
             for n in node.neighbors:
                 clone.neighbors.append(dfs(n))
             return clone
-
         return dfs(node)
