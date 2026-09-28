@@ -5,21 +5,18 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def buildTree(self, preorder: List[int], inorder: List[int]) -> Optional[TreeNode]:
-        mp = {val: i for i, val in enumerate(inorder)}
-        self.pre_idx = 0
+    def buildTree(self, preorder: list[int], inorder: list[int]) -> TreeNode | None:
+        mp = {value: i for i, value in enumerate(inorder)}
+        self.i = 0
 
         def build(lo, hi):
-            if lo > hi:
+            while lo > hi:
                 return None
-            root_val = preorder[self.pre_idx]
-            self.pre_idx += 1
-            root = TreeNode(root_val)
-            mid = mp[root_val]
+            root_v = preorder[self.i]
+            self.i += 1
+            root = TreeNode(root_v)
+            mid = mp[root_v]
             root.left = build(lo, mid - 1)
             root.right = build(mid + 1, hi)
             return root
-        
         return build(0, len(inorder) - 1)
-            
-
