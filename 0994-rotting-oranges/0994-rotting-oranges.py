@@ -1,43 +1,27 @@
 class Solution:
-    def orangesRotting(self, grid: List[List[int]]) -> int:
+    def orangesRotting(self, grid: list[list[int]]) -> int:
         m, n = len(grid), len(grid[0])
-        rotten = 0
-        fresh = 0
-        queue = deque([])
-        dirs = [(1, 0), (-1, 0), (0, 1), (0,-1)]
+        dirs = [(1, 0), (-1, 0), (0, 1), (0, -1)]
+        q = deque()
         res = 0
+        fresh = 0
         for i in range(m):
             for j in range(n):
-                if grid[i][j] == 1:
+                if grid[i][j] == 2:
+                    q.append((i, j))
+                elif grid[i][j] == 1:
                     fresh += 1
-                elif grid[i][j] == 2:
-                    rotten += 1
-                    queue.append((i, j))
-        if fresh == 0:
-            return 0
-        if rotten == 0:
-            return -1
-
-        # bfs
-        while queue:
+        while q and fresh:
+            l = len(q)
             res += 1
-            for _ in range(len(queue)):
-                i, j = queue.popleft()
+            for _ in range(l):
+                r, c = q.popleft()
                 for dr, dc in dirs:
-                    nr, nd = i + dr, j + dc
-                    if 0 <= nr < m and 0 <= nd < n and grid[nr][nd] == 1:
-                        grid[nr][nd] = 2
-                        queue.append((nr, nd))
+                    nr, nc = r + dr, c + dc
+                    if 0 <= nr < m and 0 <= nc < n and grid[nr][nc] == 1:
+                        grid[nr][nc] = 2
                         fresh -= 1
-                
-        if fresh > 0:
-            return -1
-        else:
-            return res - 1
-                        
+                        q.append((nr, nc))
+        return res if fresh == 0 else -1
 
-        
 
-        
-        
-                
